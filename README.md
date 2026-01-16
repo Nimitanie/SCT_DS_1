@@ -107,4 +107,4 @@ The dashboard enables users to:
 ## 👤 Project Author  
 
 Nimisha M  
-Data Visualization | Business Analytics | Tableau  
+B.Tech Student | Data Visualization & Analytics (Tableau)  
